@@ -1,0 +1,92 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.search_wrap.data-v-4cedc0c6 {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.history_wrap.data-v-4cedc0c6 {
+  display: flex;
+  flex-direction: column;
+}
+.history_wrap .history_wrap_top.data-v-4cedc0c6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 3vw;
+}
+.history_wrap .history_wrap_top ._span.data-v-4cedc0c6 {
+  font-size: 30rpx;
+  font-weight: 600;
+}
+.history_wrap .history_wrap_top .history_del ._img.data-v-4cedc0c6 {
+  width: 7vw;
+  height: 7vw;
+}
+.history_wrap .history_wrap_list.data-v-4cedc0c6 {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 3vw;
+}
+.history_wrap .history_wrap_list .history_wrap_list_i.data-v-4cedc0c6 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 5vw;
+  margin: 1vw 2vw;
+  padding: 1vw 2vw;
+  border-radius: 3.5vw;
+  background-color: #f7f7f7;
+}
+.hot_wrap.data-v-4cedc0c6 {
+  padding: 5vw;
+}
+.hot_wrap ._span.data-v-4cedc0c6 {
+  font-size: 30rpx;
+  font-weight: 600;
+}
+.hot_wrap .hot_wrap_list.data-v-4cedc0c6 {
+  display: flex;
+  flex-direction: column;
+}
+.hot_wrap .hot_wrap_list .hot_wrap_list_i.data-v-4cedc0c6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 15vw;
+}
+.hot_wrap .hot_wrap_list .hot_wrap_list_i .hot_wrap_list_i_left.data-v-4cedc0c6 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.hot_wrap .hot_wrap_list .hot_wrap_list_i .hot_wrap_list_i_left ._span.data-v-4cedc0c6 {
+  font-size: 35rpx;
+  padding: 0 3vw;
+}
+.hot_wrap .hot_wrap_list .hot_wrap_list_i .hot_wrap_list_i_left .hot_content.data-v-4cedc0c6 {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  width: 60vw;
+}
+.hot_wrap .hot_wrap_list .hot_wrap_list_i .hot_wrap_list_i_left .hot_content .hot_i.data-v-4cedc0c6 {
+  font-size: 35rpx;
+  font-weight: 500;
+}
+.hot_wrap .hot_wrap_list .hot_wrap_list_i .hot_wrap_list_i_left .hot_content .hot_i_content.data-v-4cedc0c6 {
+  font-size: 15rpx;
+  color: #d0d0d0;
+}
+.hot_wrap .hot_wrap_list .hot_wrap_list_i .hot_score.data-v-4cedc0c6 {
+  font-size: 20rpx;
+  font-weight: 500;
+  color: #d0d0d0;
+}
+

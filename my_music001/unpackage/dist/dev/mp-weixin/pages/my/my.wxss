@@ -1,0 +1,57 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.user_my.data-v-0be17cc6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ebebeb;
+  height: 100vh;
+}
+.user_my .bg_img.data-v-0be17cc6 {
+  height: 50vw;
+  width: 100vw;
+  background: url(https://img2.baidu.com/it/u=1521904622,3503251141&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=184);
+}
+.user_my .user.data-v-0be17cc6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 90vw;
+  height: 70vw;
+  background-color: #fff;
+  border-radius: 3vw;
+  box-shadow: 0 1vw 1vw 0.5vw #ebebeb;
+  -webkit-transform: translate(0, -3vw);
+          transform: translate(0, -3vw);
+}
+.user_my .user .user_avatar.data-v-0be17cc6 {
+  -webkit-transform: translate(0, -15vw);
+          transform: translate(0, -15vw);
+  width: 30vw;
+  height: 30vw;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.user_my .user .user_avatar ._img.data-v-0be17cc6 {
+  width: 30vw;
+  height: 30vw;
+}
+.user_my .user ._span.data-v-0be17cc6 {
+  padding: 2vw;
+  font-weight: 600;
+  font-size: 40rpx;
+}
+.user_my .user button.data-v-0be17cc6 {
+  width: 50vw;
+  height: 10vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5vw;
+  background-color: #e8e8e8;
+}
+.user_my .user button.data-v-0be17cc6:hover {
+  background-color: #d6d6d6;
+}
+

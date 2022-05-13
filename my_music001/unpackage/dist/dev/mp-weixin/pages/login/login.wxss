@@ -1,0 +1,73 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.login_content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: #f4655f;
+}
+.login_content .login_img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5vw;
+  width: 32vw;
+  height: 32vw;
+  margin: 20vw 0;
+  overflow: hidden;
+}
+.login_content .login_img ._img {
+  width: 32vw;
+  height: 32vw;
+}
+.login_content .login_mes {
+  display: flex;
+  flex-direction: column;
+}
+.login_content .login_mes .login_user {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 5vw;
+  height: 15vw;
+  margin-bottom: 3vw;
+}
+.login_content .login_mes .login_user ._img {
+  margin: 3vw 5vw;
+  width: 6vw;
+  height: 6vw;
+}
+.login_content .login_mes .login_user input {
+  color: #fff;
+  padding: 2vw;
+  border-bottom: 0.5rpx solid #eaeaea;
+}
+.login_content .login_mes .login_user .yanzm {
+  display: flex;
+  flex-direction: row;
+}
+.login_content .login_mes .login_user .yanzm input {
+  width: 28vw;
+}
+.login_content .login_mes .login_user .yanzm button {
+  width: 20vw;
+  height: 10vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20rpx;
+}
+.login_content .btn_login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  width: 50vw;
+  height: 10vw;
+  border: 1rpx solid #fff;
+  border-radius: 5vw;
+}
+

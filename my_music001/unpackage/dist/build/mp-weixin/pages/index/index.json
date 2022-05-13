@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "网易云音乐",
+  "usingComponents": {
+    "uni-search-bar": "/uni_modules/uni-search-bar/components/uni-search-bar/uni-search-bar"
+  }
+}
